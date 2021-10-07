@@ -9,6 +9,7 @@
     * [Color Palettes](https://github.com/m-berdnikov/dev-tools#color-palettes)
     * [CSS Games](https://github.com/m-berdnikov/dev-tools#css-games)
   * [JavaScript](https://github.com/m-berdnikov/dev-tools#javascript)
+  * [React](https://github.com/m-berdnikov/dev-tools#react)
   * [Animation](https://github.com/m-berdnikov/dev-tools#animation)
   * [Gulp](https://github.com/m-berdnikov/dev-tools#gulp)
 * [Backend](https://github.com/m-berdnikov/dev-tools#backend)
@@ -55,6 +56,13 @@ ___
 * [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask.
 * [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider.
 * [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language which builds on JavaScript giving you better tooling at any scale.
+
+### React
+
+* [Create React App](https://create-react-app.dev/) - Set up a modern web app by running one command.
+* [React Router DOM](https://reactrouter.com/) - React Router is a collection of navigational components that compose declaratively with your application.
+* [React Query](https://react-query.tanstack.com/) - Fetch, cache and update data in your React and React Native applications all without touching any "global state".
+* [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 
 ### Animation 
 
