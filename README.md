@@ -9,10 +9,10 @@
 
 ### JavaScript
 
-* [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
-* [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider
+* [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
 * [JustValidate](https://www.npmjs.com/package/just-validate) - Lightweight (~4,5kb gzip) form validation in Javascript Vanilla, without dependencies, with customizable rules (including remote validation), customizable messages and customizable submit form with ajax helper.
-* [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask
+* [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask.
+* [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider.
 
 ### Animation 
 
@@ -49,12 +49,12 @@
 
 ## VS Code Extensions 
 
-* [GIT Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+* [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
+* [GIT Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 * [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
 * [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
-* [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
 * [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext) - Oceanic Next color theme, based on original [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme)
 
 ## Chrome Extensions
@@ -63,5 +63,5 @@
 
 ## GitHub 
 
-* [Readme.md format (user generated)](https://github.com/GnuriaN/format-README)
 * [Readme.md format (docs)](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Readme.md format (user generated)](https://github.com/GnuriaN/format-README)
