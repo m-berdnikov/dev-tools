@@ -25,7 +25,6 @@
 * [JustValidate](https://www.npmjs.com/package/just-validate) - Lightweight (~4,5kb gzip) form validation in Javascript Vanilla, without dependencies, with customizable rules (including remote validation), customizable messages and customizable submit form with ajax helper.
 * [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask.
 * [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider.
-
 * [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language which builds on JavaScript giving you better tooling at any scale.
 
 ### Animation 
