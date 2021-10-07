@@ -4,8 +4,14 @@
 
 ### Design
 
-* [Ant Design](https://ant.design/)
-* [TailwindCSS](http://tailwindcss.com/)
+#### Design Systems/Frameworks
+
+* [Ant Design](https://ant.design/) - A design system for enterprise-level products. An enterprise-class UI design language and React UI library
+* [TailwindCSS](http://tailwindcss.com/) - A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
+
+#### Tools
+
+* [Pure CSS Loaders](https://loading.io/css/) - Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
 
 #### CSS Games
 
