@@ -22,6 +22,7 @@
 * [GitHub](https://github.com/m-berdnikov/dev-tools#github)
   * [GitHub Actions](https://github.com/m-berdnikov/dev-tools#github-actions)
 * [Code Sandboxes](https://github.com/m-berdnikov/dev-tools#code-sandboxes)
+* [YouTube Channels](https://github.com/m-berdnikov/dev-tools#youtube-channels)
 
 ___
 
@@ -134,3 +135,11 @@ ___
 * [CodeSandbox](https://codesandbox.io/)
 * [CodePen](https://codepen.io/)
 * [JSfiddle](https://jsfiddle.net/)
+
+## YouTube Channels
+
+### English
+  * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+### Russian
+  * [Ulbi TV](https://www.youtube.com/c/UlbiTV)
+  * [webDev](https://www.youtube.com/c/YauhenKavalchuk)
