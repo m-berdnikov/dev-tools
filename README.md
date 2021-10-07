@@ -33,6 +33,12 @@
 
 * [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node
 * [Cors](https://github.com/expressjs/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+
+#### Enviroment
+
+* [Concurrently](https://www.npmjs.com/package/concurrently) - Run multiple commands concurrently.
+* [Config](https://www.npmjs.com/package/config) - Node-config organizes hierarchical configurations for your app deployments.
+* [Dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 ### Others
@@ -46,11 +52,6 @@
 * [SWAPI](https://swapi.dev/) - Star Wars API
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API
 * [My JSON Server](https://my-json-server.typicode.com/typicode/demo) - Fake API
-
-## Enviroment
-
-* [Concurrently](https://www.npmjs.com/package/concurrently) - Run multiple commands concurrently.
-* [Dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 
 ## VS Code Extensions 
 
