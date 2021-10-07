@@ -14,6 +14,11 @@
 * [Pure CSS Loaders](https://loading.io/css/) - Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
 * [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
+## Color Palettes
+
+* [HTML CSS Color](https://www.htmlcsscolor.com/)
+* [Color HEXA](https://www.colorhexa.com/)
+
 #### CSS Games
 
 * [Grid Garden](https://cssgridgarden.com/) - A game in which you write CSS code to grow your carrot garden.
@@ -67,6 +72,7 @@
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 * [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
 * [GIT Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+* [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - A simple extension to make indentation more readable
 * [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
 * [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
