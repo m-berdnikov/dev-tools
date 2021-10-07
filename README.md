@@ -38,13 +38,17 @@
 
 ## Enviroment
 
-* [Concurrently](https://www.npmjs.com/package/concurrently) - Run multiple commands concurrently
+* [Concurrently](https://www.npmjs.com/package/concurrently) - Run multiple commands concurrently.
 * [Dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 
 
 ## VS Code Extensions 
 
 * [GIT Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+* [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
+* [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
 ## GitHub 
 
