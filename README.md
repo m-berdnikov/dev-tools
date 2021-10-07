@@ -52,7 +52,7 @@
 
 ## JSON
 
-* [Что такое JSON](https://habr.com/ru/post/554274/) - An article about JSON format (in Russian).
+* [What is JSON](https://habr.com/ru/post/554274/) - An article about JSON format (in Russian).
 * [JSON Generator](https://www.json-generator.com/)
 * [JSON Server](https://github.com/typicode/json-server) - Fake Local API. 
 * [Mock Service Worker](https://mswjs.io/) - Fake Local API.
