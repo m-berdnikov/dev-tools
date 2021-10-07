@@ -7,6 +7,11 @@
 * [Ant Design](https://ant.design/)
 * [TailwindCSS](http://tailwindcss.com/)
 
+#### CSS Games
+
+* [Grid Garden](https://cssgridgarden.com/) - A game in which you write CSS code to grow your carrot garden.
+* [Flexbox Froggy](https://flexboxfroggy.com/) - A game where you help Froggy and friends by writing CSS code.
+
 ### JavaScript
 
 * [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
@@ -16,11 +21,11 @@
 
 ### Animation 
 
-* [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
+* [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
 
 ### Gulp
 
-* [Gulp Include](https://www.npmjs.com/package/gulp-include) - https://www.npmjs.com/package/gulp-include
+* [Gulp Include](https://www.npmjs.com/package/gulp-include) - Makes inclusion of files a breeze. Enables functionality similar to that of snockets / sprockets or other file insertion compilation tools.
 
 ## Backend
 
