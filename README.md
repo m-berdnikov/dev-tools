@@ -26,6 +26,8 @@
 * [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask.
 * [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider.
 
+* [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language which builds on JavaScript giving you better tooling at any scale.
+
 ### Animation 
 
 * [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
