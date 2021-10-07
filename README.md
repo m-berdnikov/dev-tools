@@ -65,3 +65,8 @@
 
 * [Readme.md format (docs)](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Readme.md format (user generated)](https://github.com/GnuriaN/format-README)
+
+## Code Sandboxes
+
+* [CodePen](https://codepen.io/)
+* [JSfiddle](https://jsfiddle.net/)
