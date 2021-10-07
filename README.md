@@ -11,10 +11,16 @@
 
 * [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 * [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider
+* [JustValidate](https://www.npmjs.com/package/just-validate) - Lightweight (~4,5kb gzip) form validation in Javascript Vanilla, without dependencies, with customizable rules (including remote validation), customizable messages and customizable submit form with ajax helper.
+* [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask
 
 ### Animation 
 
 * [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
+
+### Gulp
+
+* [Gulp Include](https://www.npmjs.com/package/gulp-include) - https://www.npmjs.com/package/gulp-include
 
 ## Backend
 
