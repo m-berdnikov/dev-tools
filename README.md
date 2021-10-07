@@ -12,6 +12,7 @@
 #### Tools
 
 * [Pure CSS Loaders](https://loading.io/css/) - Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
+* [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
 #### CSS Games
 
