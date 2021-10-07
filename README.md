@@ -46,12 +46,13 @@
 
 ## JSON
 
+* [Что такое JSON](https://habr.com/ru/post/554274/) - An article about JSON format (in Russian).
 * [JSON Generator](https://www.json-generator.com/)
-* [JSON Server](https://github.com/typicode/json-server) - Fake Local API
-* [Mock Service Worker](https://mswjs.io/) - Fake Local API
-* [SWAPI](https://swapi.dev/) - Star Wars API
-* [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API
-* [My JSON Server](https://my-json-server.typicode.com/typicode/demo) - Fake API
+* [JSON Server](https://github.com/typicode/json-server) - Fake Local API. 
+* [Mock Service Worker](https://mswjs.io/) - Fake Local API.
+* [SWAPI](https://swapi.dev/) - Star Wars API.
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API.
+* [My JSON Server](https://my-json-server.typicode.com/typicode/demo) - Fake API.
 
 ## VS Code Extensions 
 
@@ -69,8 +70,15 @@
 
 ## GitHub 
 
+* [GitHub Actions](https://github.com/features/actions) - GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD.
+* [GitHub Pages](https://pages.github.com/) - Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 * [Readme.md format (docs)](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Readme.md format (user generated)](https://github.com/GnuriaN/format-README)
+
+### GitHub Actions
+
+* [GitHub Actions For GitHub Pages](https://github.com/peaceiris/actions-gh-pages) - This is a GitHub Action to deploy your static files to GitHub Pages. 
+* [Heroku Deploy](https://github.com/marketplace/actions/deploy-to-heroku) - This is a very simple GitHub action that allows you to deploy to Heroku.
 
 ## Code Sandboxes
 
