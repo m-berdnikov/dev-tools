@@ -49,6 +49,8 @@
 * [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
 * [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+* [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
+* [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext) - Oceanic Next color theme, based on original [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme)
 
 ## GitHub 
 
