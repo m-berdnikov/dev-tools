@@ -14,6 +14,13 @@
 
 ## Backend
 
+### Node.js
+
+* [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node
+* [Cors](https://github.com/expressjs/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+* [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+
+### Others
 * [Socket.io](https://socket.io/)
 
 ## JSON
