@@ -12,6 +12,10 @@
 * [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 * [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider
 
+### Animation 
+
+* [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
+
 ## Backend
 
 ### Node.js
