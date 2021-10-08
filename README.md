@@ -144,6 +144,8 @@ ___
 
 ### English
   * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+
 ### Russian
   * [Ulbi TV](https://www.youtube.com/c/UlbiTV)
   * [webDev](https://www.youtube.com/c/YauhenKavalchuk)
+  * [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
