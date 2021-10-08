@@ -22,7 +22,7 @@
 * [Chrome Extensions](https://github.com/m-berdnikov/dev-tools#chrome-extensions)
 * [GitHub](https://github.com/m-berdnikov/dev-tools#github)
   * [GitHub Actions](https://github.com/m-berdnikov/dev-tools#github-actions)
-* [Code Sandboxes](https://github.com/m-berdnikov/dev-tools#code-sandboxes)
+* [Code Playgrounds](https://github.com/m-berdnikov/dev-tools#code-playgrounds)
 * [YouTube Channels](https://github.com/m-berdnikov/dev-tools#youtube-channels)
 
 ___
@@ -136,7 +136,7 @@ ___
 * [GitHub Actions For GitHub Pages](https://github.com/peaceiris/actions-gh-pages) - This is a GitHub Action to deploy your static files to GitHub Pages. 
 * [Heroku Deploy](https://github.com/marketplace/actions/deploy-to-heroku) - This is a very simple GitHub action that allows you to deploy to Heroku.
 
-## Code Sandboxes
+## Code Playgrounds
 
 * [CodeSandbox](https://codesandbox.io/)
 * [CodePen](https://codepen.io/)
