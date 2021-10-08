@@ -40,6 +40,10 @@ ___
 * [Pure CSS Loaders](https://loading.io/css/) - Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
 * [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
+#### Packages
+
+* [Node SASS](https://www.npmjs.com/package/node-sass) - Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass.
+
 #### Color Palettes
 
 * [HTML CSS Color](https://www.htmlcsscolor.com/)
