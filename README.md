@@ -68,9 +68,9 @@ ___
 
 * [Create React App](https://create-react-app.dev/) - Set up a modern web app by running one command.
 * [React Helmet](https://www.npmjs.com/package/react-helmet) - This reusable React component will manage all of your changes to the document head.
+* [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 * [React Router DOM](https://reactrouter.com/) - React Router is a collection of navigational components that compose declaratively with your application.
 * [React Query](https://react-query.tanstack.com/) - Fetch, cache and update data in your React and React Native applications all without touching any "global state".
-* [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 
 ### Animation 
 
@@ -95,6 +95,7 @@ ___
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 ### Others
+
 * [Socket.io](https://socket.io/)
 
 ## JSON
@@ -154,3 +155,4 @@ ___
   * [Ulbi TV](https://www.youtube.com/c/UlbiTV)
   * [webDev](https://www.youtube.com/c/YauhenKavalchuk)
   * [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+  * [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ)
