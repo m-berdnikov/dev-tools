@@ -67,6 +67,7 @@ ___
 ### React
 
 * [Create React App](https://create-react-app.dev/) - Set up a modern web app by running one command.
+* [React Helmet](https://www.npmjs.com/package/react-helmet) - This reusable React component will manage all of your changes to the document head.
 * [React Router DOM](https://reactrouter.com/) - React Router is a collection of navigational components that compose declaratively with your application.
 * [React Query](https://react-query.tanstack.com/) - Fetch, cache and update data in your React and React Native applications all without touching any "global state".
 * [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
