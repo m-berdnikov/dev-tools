@@ -149,12 +149,13 @@ ___
 ## YouTube Channels
 
 ### English
+  * [Dev Ed](https://www.youtube.com/c/DevEd)
   * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
 ### Russian
   * [Ulbi TV](https://www.youtube.com/c/UlbiTV)
   * [webDev](https://www.youtube.com/c/YauhenKavalchuk)
   * [Web Developer Blog](https://www.youtube.com/c/SuprunAlexey)
-  * [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+  * [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
   * [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
   * [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ)
