@@ -17,8 +17,10 @@ git commit -m "message"
 git commit --amend -m "message"
 ```
 ```
-git commit -am "message"
 git commit -a -m "message"
+```
+```
+git commit -am "message"
 ```
 ```
 git merge --abort"
@@ -28,7 +30,6 @@ git revert [hash]"
 ```
 ```
 git branch -d [name]
-git branch -D [name]
 ```
 ```
 git checkout -- [path/to/file]
@@ -53,4 +54,7 @@ git pull origin [branch]
 ```
 ```
 git push origin [branch]
+```
+```
+git reset --soft HEAD
 ```
