@@ -18,6 +18,8 @@
     * [Enviroment](https://github.com/m-berdnikov/dev-tools#enviroment)
   * [Others](https://github.com/m-berdnikov/dev-tools#others)
 * [JSON](https://github.com/m-berdnikov/dev-tools#json)
+* [Terminal Commands (Unix)](terminal.md)
+* [Git Commands](git.md)
 * [VS Code Extensions](https://github.com/m-berdnikov/dev-tools#vs-code-extensions)
 * [Chrome Extensions](https://github.com/m-berdnikov/dev-tools#chrome-extensions)
 * [GitHub](https://github.com/m-berdnikov/dev-tools#github)
@@ -108,6 +110,7 @@ ___
 * [SWAPI](https://swapi.dev/) - Star Wars API.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API.
 * [My JSON Server](https://my-json-server.typicode.com/typicode/demo) - Fake API.
+
 
 ## VS Code Extensions 
 
