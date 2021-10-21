@@ -16,3 +16,9 @@ rm -rf {parh/to/folder}
 ```
 mv {path/to/file} {path/to/new/dir}
 ```
+```
+touch {path/to/file}
+```
+```
+mkdir {path/to/folder}
+```
