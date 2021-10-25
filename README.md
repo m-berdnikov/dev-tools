@@ -62,6 +62,7 @@ ___
 
 * [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
 * [ChartsJS](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
+* [Faker](https://www.npmjs.com/package/faker) - Generate massive amounts of fake data in the browser and node.js.
 * [JustValidate](https://www.npmjs.com/package/just-validate) - Lightweight (~4,5kb gzip) form validation in Javascript Vanilla, without dependencies, with customizable rules (including remote validation), customizable messages and customizable submit form with ajax helper.
 * [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask.
 * [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider.
