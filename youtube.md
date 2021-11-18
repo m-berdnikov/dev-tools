@@ -19,4 +19,4 @@
 
 [Дженерики в TypeScript](https://www.youtube.com/watch?v=L1ONtRnIxcY) - wise.js
 
-[TypeScript - секретные материалы](https://www.youtube.com/watch?v=JJ171w3u2wQ)
+[TypeScript - секретные материалы](https://www.youtube.com/watch?v=JJ171w3u2wQ) - Как пройти в IT?
