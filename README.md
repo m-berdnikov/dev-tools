@@ -144,6 +144,7 @@ ___
 * [Readme.md format (docs)](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Readme.md format (user generated)](https://github.com/GnuriaN/format-README)
 * [Markdown Cheatsheet](https://paulradzkov.com/2014/markdown_cheatsheet/)
+* `Press "." to open a GitHub Repository in VS Code in Browser`
 
 ### GitHub Actions
 
