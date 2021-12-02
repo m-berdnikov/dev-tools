@@ -52,6 +52,7 @@ ___
 #### Color Palettes
 
 * [HTML CSS Color](https://www.htmlcsscolor.com/)
+* [Color HEX](https://www.color-hex.com/)
 * [Color HEXA](https://www.colorhexa.com/)
 
 #### CSS Games
@@ -80,6 +81,8 @@ ___
 ### Animation 
 
 * [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
+* [CSShake](http://elrumordelaluz.github.io/csshake/) - Some CSS classes to move your DOM!
+* [Mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web.
 
 ### Gulp
 
