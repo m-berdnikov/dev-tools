@@ -42,6 +42,7 @@ ___
 
 #### Tools
 
+* [Clippy](https://bennettfeely.com/clippy/) - The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
 * [Pure CSS Loaders](https://loading.io/css/) - Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
 * [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
@@ -51,6 +52,7 @@ ___
 
 #### Color Palettes
 
+* [HTML Colour Codes](https://htmlcolorcodes.com/) - Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. Let's go!
 * [HTML CSS Color](https://www.htmlcsscolor.com/)
 * [Color HEX](https://www.color-hex.com/)
 * [Color HEXA](https://www.colorhexa.com/)
@@ -121,6 +123,7 @@ ___
 
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 * [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
+* [Blockman - Highlight Nested Code Blocks](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman) - Mark/Highlight code blocks
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
 * [GIT History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
