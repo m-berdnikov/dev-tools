@@ -49,6 +49,7 @@ ___
 #### Packages
 
 * [Node SASS](https://www.npmjs.com/package/node-sass) - Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass.
+* [Classnames](https://www.npmjs.com/package/classnames) - A simple JavaScript utility for conditionally joining classNames together.
 
 #### Color Palettes
 
