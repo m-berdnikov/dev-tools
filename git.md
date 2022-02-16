@@ -61,8 +61,7 @@ git reset --soft HEAD
 ```
 git config core.autocrlf true
 ```
-git add .
-warning: LF will be replaced by CRLF in src/App.tsx.
-The file will have its original line endings in your working directory
-warning: LF will be replaced by CRLF in src/index.tsx.
-The file will have its original line endings in your working directory
+```
+git clone {ssh} {folder name}
+```
+
