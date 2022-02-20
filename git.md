@@ -59,9 +59,6 @@ git push origin [branch]
 git reset --soft HEAD
 ```
 ```
-git config core.autocrlf true
-```
-```
 git clone {ssh} {folder name}
 ```
 ___
