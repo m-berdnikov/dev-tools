@@ -64,4 +64,15 @@ git config core.autocrlf true
 ```
 git clone {ssh} {folder name}
 ```
+___
+Error
+```
+warning: CRLF will be replaced by LF in .prettierrc.
+The file will have its original line endings in your working directory
+```
+Solution
+```
+git config core.autocrlf true
+
+```
 
