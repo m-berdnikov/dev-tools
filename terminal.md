@@ -45,3 +45,9 @@ touch {path/to/file}
 ```
 mkdir {path/to/folder}
 ```
+
+Открыть файл в проводнике (Finder)
+
+```
+open {path/to/folder} / open .
+```
