@@ -1,8 +1,8 @@
-Windows
+### Windows
 
 Shift + Ctrl + L - Multiple selection by search
 
-Mac OS
+### Mac OS
 
 Shift + клик по раскрывающей/закрывающей стрелке - свернуть/развернуть блок кода
 
