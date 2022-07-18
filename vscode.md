@@ -10,7 +10,7 @@ CMS + B - Open/close left bar
 
 Control + ` - Open/close Terminal
 
-CMD + k W - Close all tabs
+CMD + k w - Close all tabs
 
 Shift + CMD + X - Open Extensions
 
