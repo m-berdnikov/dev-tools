@@ -1,10 +1,10 @@
-Перейти в папку 
+Перейти в папку
 
 ```
 cd {path/to/folder}
 ```
 
-Удалить файл 
+Удалить файл
 
 ```
 rm {path/to/file}
@@ -50,4 +50,10 @@ mkdir {path/to/folder}
 
 ```
 open {path/to/folder} / open .
+```
+
+Показать путь к текущей папке
+
+```
+pwd
 ```
