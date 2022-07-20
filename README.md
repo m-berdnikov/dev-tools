@@ -21,11 +21,12 @@
 - [Terminal Commands (Unix)](terminal.md)
 - [Git Commands](git.md)
 - [VS Code Extensions](https://github.com/m-berdnikov/dev-tools#vs-code-extensions)
+- [VS Code Shortcuts](vscode.md)
 - [Chrome Extensions](https://github.com/m-berdnikov/dev-tools#chrome-extensions)
 - [GitHub](https://github.com/m-berdnikov/dev-tools#github)
   - [GitHub Actions](https://github.com/m-berdnikov/dev-tools#github-actions)
 - [Code Playgrounds](https://github.com/m-berdnikov/dev-tools#code-playgrounds)
-- [YouTube Channels](https://github.com/m-berdnikov/dev-tools#youtube-channels)
+- [YouTube Channels](youtube.md)
 
 ---
 
@@ -166,20 +167,3 @@
 - [CodeSandbox](https://codesandbox.io/)
 - [CodePen](https://codepen.io/)
 - [JSfiddle](https://jsfiddle.net/)
-
-## YouTube Channels
-
-### English
-
-- [Dev Ed](https://www.youtube.com/c/DevEd)
-- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-
-### Russian
-
-- [Ulbi TV](https://www.youtube.com/c/UlbiTV)
-- [webDev](https://www.youtube.com/c/YauhenKavalchuk)
-- [Web Developer Blog](https://www.youtube.com/c/SuprunAlexey)
-- [R class Tech](https://www.youtube.com/channel/UC3F8aC0Ypyv12MpEDrpJ-6g)
-- [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
-- [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
-- [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ)

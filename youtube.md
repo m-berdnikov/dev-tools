@@ -1,3 +1,22 @@
+## YouTube Channels
+
+### English
+
+- [Dev Ed](https://www.youtube.com/c/DevEd)
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+
+### Russian
+
+- [Ulbi TV](https://www.youtube.com/c/UlbiTV)
+- [webDev](https://www.youtube.com/c/YauhenKavalchuk)
+- [Web Developer Blog](https://www.youtube.com/c/SuprunAlexey)
+- [R class Tech](https://www.youtube.com/channel/UC3F8aC0Ypyv12MpEDrpJ-6g)
+- [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+- [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
+- [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ)
+
+## YouTube Videos
+
 ### English
 
 ### Russian
@@ -13,6 +32,7 @@
 [GitHub Actions - Основы Автоматизации - DevOps - GitOps](https://www.youtube.com/watch?v=Yg5rpke79X4)
 
 #### Typescript
+
 [React TypeScript ПОЛНЫЙ КУРС 2021](https://www.youtube.com/watch?v=92qcfeWxtnY) - Ubli TV
 
 [Продвинутый TypeScript](https://www.youtube.com/watch?v=7NU6K4170As) - Владилен Минин
