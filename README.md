@@ -45,7 +45,6 @@
 
 - [Clippy](https://bennettfeely.com/clippy/) - The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
 - [Pure CSS Loaders](https://loading.io/css/) - Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
-- [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
 #### Packages
 
@@ -59,6 +58,7 @@
 - [Color HEX](https://www.color-hex.com/)
 - [Color HEXA](https://www.colorhexa.com/)
 - [Gradient King](https://gradient-king.vercel.app/)
+- [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
 #### CSS Games
 
