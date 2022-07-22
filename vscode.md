@@ -4,16 +4,62 @@ Shift + Ctrl + L - Multiple selection by search
 
 ### Mac OS
 
-Shift + клик по раскрывающей/закрывающей стрелке - свернуть/развернуть блок кода
+Cвернуть/развернуть блок кода
 
-CMS + B - Open/close left bar
+```
+Shift + клик по раскрывающей/закрывающей стрелке -
+```
 
-Control + ` - Open/close Terminal
+Open/close left bar
 
-CMD + k w - Close all tabs
+```
+CMD + B
+```
 
-Shift + CMD + X - Open Extensions
+Open/close Terminal
 
-Shift + CMD + E - Open Explorer
+```
+Control + `
+```
 
-Shift + Control + G - Open Source Contro
+Close all tabs
+
+```
+CMD + K W
+```
+
+Open Extensions
+
+```
+Shift + CMD + X
+```
+
+Open Explorer
+
+```
+Shift + CMD + E
+```
+
+Open Source Control
+
+```
+Shift + Control + G -
+```
+
+Open Search
+
+```
+Shift + Cmd + F
+```
+
+Show bottom pannel (with terminal, output, etc.)
+
+```
+Cmd + J
+```
+
+Split to right
+
+```
+Cmd + \
+```
