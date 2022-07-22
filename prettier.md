@@ -1,7 +1,15 @@
 Windows
 
-Shift + Alt + F - format code
+Format code
+
+```
+Shift + Alt + F
+```
 
 MacOS
 
-Shift + Option + F - format code
+Format code
+
+```
+Shift + Option + F
+```

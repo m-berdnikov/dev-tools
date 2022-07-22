@@ -1,6 +1,10 @@
 ### Windows
 
-Shift + Ctrl + L - Multiple selection by search
+Multiple selection by search
+
+```
+Shift + Ctrl + L
+```
 
 ### Mac OS
 
@@ -49,17 +53,17 @@ Shift + Control + G -
 Open Search
 
 ```
-Shift + Cmd + F
+Shift + CMD + F
 ```
 
 Show bottom pannel (with terminal, output, etc.)
 
 ```
-Cmd + J
+CMD + J
 ```
 
 Split to right
 
 ```
-Cmd + \
+CMD + \
 ```
