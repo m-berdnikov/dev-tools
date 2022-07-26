@@ -14,8 +14,8 @@ Enter file in which to save the key (/home/user/.ssh/id_rsa):
 
 Нажмите на клавишу Enter. Далее система предложит ввести кодовую фразу для дополнительной защиты SSH-подключения:
 
-```Enter passphrase (empty for no passphrase):
-
+```
+Enter passphrase (empty for no passphrase):
 ```
 
 Этот шаг можно пропустить. При ответе на этот и следующий вопрос просто нажмите клавишу Enter.
