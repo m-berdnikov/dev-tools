@@ -23,6 +23,7 @@
 - [VS Code Extensions](https://github.com/maxim-berdnikov/dev-tools#vs-code-extensions)
 - [VS Code Shortcuts](vscode.md)
 - [Chrome Extensions](https://github.com/maxim-berdnikov/dev-tools#chrome-extensions)
+- [SSH Generating](ssh.md)
 - [GitHub](https://github.com/maxim-berdnikov/dev-tools#github)
   - [GitHub Actions](https://github.com/maxim-berdnikov/dev-tools#github-actions)
 - [Code Playgrounds](https://github.com/maxim-berdnikov/dev-tools#code-playgrounds)
