@@ -6,6 +6,18 @@ Multiple selection by search
 Shift + Ctrl + L
 ```
 
+Open Terminal
+
+```
+Ctrl + `
+```
+
+Duplicate Line
+
+```
+Ctrl + Shift + D
+```
+
 ### Mac OS
 
 Cвернуть/развернуть блок кода
