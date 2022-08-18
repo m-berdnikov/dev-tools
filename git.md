@@ -108,18 +108,11 @@ git pull origin [branch]
 git push origin [branch]
 ```
 
-Удалить последний локальный коммит
+Отключить игнорирование изменение ригистра в названиях файлов/папок
 
 ```
-git reset --soft HEAD
+git config core.ignorecase false
 ```
-
-Склонировать репозиторий по ssh в указанную папку
-
-```
-git clone {ssh} {folder name}
-```
-
 ---
 
 Error
