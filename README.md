@@ -66,6 +66,17 @@
 - [Grid Garden](https://cssgridgarden.com/) - A game in which you write CSS code to grow your carrot garden.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - A game where you help Froggy and friends by writing CSS code.
 
+### Animation
+
+- [AnimateCSS](https://animate.style/) - Just-add-water CSS animations
+- [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
+- [CSShake](http://elrumordelaluz.github.io/csshake/) - Some CSS classes to move your DOM!
+- [Mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web.
+
+### Blob Generators
+
+- [Blobmaker.app](https://www.blobmaker.app/) - Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.
+
 ### JavaScript
 
 - [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
@@ -84,13 +95,6 @@
 - [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 - [React Router DOM](https://reactrouter.com/) - React Router is a collection of navigational components that compose declaratively with your application.
 - [React Query](https://react-query.tanstack.com/) - Fetch, cache and update data in your React and React Native applications all without touching any "global state".
-
-### Animation
-
-- [AnimateCSS](https://animate.style/) - Just-add-water CSS animations
-- [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
-- [CSShake](http://elrumordelaluz.github.io/csshake/) - Some CSS classes to move your DOM!
-- [Mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web.
 
 ### Gulp
 
