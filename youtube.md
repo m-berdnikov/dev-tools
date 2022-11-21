@@ -9,11 +9,8 @@
 
 - [Ulbi TV](https://www.youtube.com/c/UlbiTV)
 - [webDev](https://www.youtube.com/c/YauhenKavalchuk)
-- [Web Developer Blog](https://www.youtube.com/c/SuprunAlexey)
 - [R class Tech](https://www.youtube.com/channel/UC3F8aC0Ypyv12MpEDrpJ-6g)
 - [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
-- [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
-- [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ)
 
 ## YouTube Videos
 
@@ -24,8 +21,6 @@
 [ESLint](https://www.youtube.com/playlist?list=PLlwtdxQXoJAvMeHYm-bMyTECOjKAXLFN0) - EasyCode - Плейлист
 
 [Mongo DB](https://www.youtube.com/watch?v=LNvmI8a9jwY) - Ubli TV
-
-[Mongo DB](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXcxN3fRjc-EOWZLqW8dLVV) - Гоша Дударь - Плейлист
 
 [Backend для начинающих на node.js express. RESTfull API, CRUD, HTTP](https://www.youtube.com/watch?v=tKM44vPHU0U)
 
