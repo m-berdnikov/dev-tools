@@ -21,3 +21,10 @@ Open color picker
 ```
 Cmd + Shift + C
 ```
+
+Kill process
+
+```
+lsof -1 :{PORT}
+kill -9 {PID}
+```
