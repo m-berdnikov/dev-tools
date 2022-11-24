@@ -35,3 +35,11 @@
 [Дженерики в TypeScript](https://www.youtube.com/watch?v=L1ONtRnIxcY) - wise.js
 
 [TypeScript - секретные материалы](https://www.youtube.com/watch?v=JJ171w3u2wQ) - Как пройти в IT?
+
+### Тестирование
+
+[Тестирование JavaScript от А до Я (Jest, React Testing Library, e2e, screenshot) - Ubli TV](https://www.youtube.com/watch?v=y2emL1fMRyY)
+
+[Jest & Enzyme. Полный курс - webDev](https://www.youtube.com/watch?v=9g4tsfIJz50)
+
+[Jest. Unit Тестирование в JavaScript - Владилен Минин](https://www.youtube.com/watch?v=IEDe8jl5efU)
