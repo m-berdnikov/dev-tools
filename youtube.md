@@ -1,20 +1,21 @@
 ## YouTube Channels
 
-### English
-
-- [Dev Ed](https://www.youtube.com/c/DevEd)
-- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-
 ### Russian
 
 - [Ulbi TV](https://www.youtube.com/c/UlbiTV)
 - [webDev](https://www.youtube.com/c/YauhenKavalchuk)
 - [R class Tech](https://www.youtube.com/channel/UC3F8aC0Ypyv12MpEDrpJ-6g)
 - [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
-
-## YouTube Videos
+- [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart)
 
 ### English
+
+- [developedbyed](https://www.youtube.com/@developedbyed)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+
+## YouTube Videos
 
 ### Russian
 
@@ -35,3 +36,13 @@
 [Дженерики в TypeScript](https://www.youtube.com/watch?v=L1ONtRnIxcY) - wise.js
 
 [TypeScript - секретные материалы](https://www.youtube.com/watch?v=JJ171w3u2wQ) - Как пройти в IT?
+
+### Тестирование
+
+[Тестирование JavaScript от А до Я (Jest, React Testing Library, e2e, screenshot) - Ubli TV](https://www.youtube.com/watch?v=y2emL1fMRyY)
+
+[Jest & Enzyme. Полный курс - webDev](https://www.youtube.com/watch?v=9g4tsfIJz50)
+
+[Jest. Unit Тестирование в JavaScript - Владилен Минин](https://www.youtube.com/watch?v=IEDe8jl5efU)
+
+### English

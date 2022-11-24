@@ -96,13 +96,13 @@ git remote add origin [ssh]
 git remote set-url origin [ssh]
 ```
 
-Отпраивить изменения в удаленный репозиторий
+Загрузить изменения из удаленного репозитория
 
 ```
 git pull origin [branch]
 ```
 
-Загрузить изменения из удаленного репозитория
+Отпраивить изменения в удаленный репозиторий
 
 ```
 git push origin [branch]
@@ -113,6 +113,7 @@ git push origin [branch]
 ```
 git config core.ignorecase false
 ```
+
 ---
 
 Error

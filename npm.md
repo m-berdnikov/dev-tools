@@ -1,4 +1,4 @@
-### To reset user defaults
+To reset user defaults
 
 Run this in the command line (or git bash on windows):
 
