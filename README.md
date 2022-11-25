@@ -68,6 +68,11 @@
 - [Grid Garden](https://cssgridgarden.com/) - A game in which you write CSS code to grow your carrot garden.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - A game where you help Froggy and friends by writing CSS code.
 
+#### Testing
+
+- [Jest](https://jestjs.io/ru/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+- [Testing Library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices
+
 ### Animation
 
 - [AnimateCSS](https://animate.style/) - Just-add-water CSS animations
