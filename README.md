@@ -92,6 +92,7 @@
 - [Fast Sort](https://www.npmjs.com/package/fast-sort) - Fast easy to use and flexible sorting with TypeScript support. For speed comparison of fast-sort vs other popular sort libraries check benchmark section. For list of all available features check highlights section.
 - [JustValidate](https://www.npmjs.com/package/just-validate) - Lightweight (~4,5kb gzip) form validation in Javascript Vanilla, without dependencies, with customizable rules (including remote validation), customizable messages and customizable submit form with ajax helper.
 - [IMask](https://www.npmjs.com/package/imask) - Vanilla javascript input mask.
+- [Plural-RU](https://www.npmjs.com/package/plural-ru) - Склонение русских существительных и глаголов!
 - [SwiperJS](https://swiperjs.com/) - The Most Modern Mobile Touch Slider.
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language which builds on JavaScript giving you better tooling at any scale.
 
@@ -156,6 +157,7 @@
 - [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
 - [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG Coding, Minify, Pretty, Preview All-In-One
 - [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext) - Oceanic Next color theme, based on original [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme).
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
 - [VS Code Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data inside Visual Studio Code. Fake data is based on Faker.
