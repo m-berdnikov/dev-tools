@@ -63,10 +63,11 @@
 - [Gradient King](https://gradient-king.vercel.app/)
 - [UI Gradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
-#### CSS Games
+#### Dev Games
 
 - [Grid Garden](https://cssgridgarden.com/) - A game in which you write CSS code to grow your carrot garden.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - A game where you help Froggy and friends by writing CSS code.
+- [Regex Learn](https://regexlearn.com/ru/learn/regex101) -
 
 #### Testing
 
