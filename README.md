@@ -151,6 +151,7 @@
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [GIT History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 - [GIT Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+- [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) - GitHub theme for VS Code.
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets.
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - A simple extension to make indentation more readable.
@@ -162,6 +163,7 @@
 - [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG Coding, Minify, Pretty, Preview All-In-One
 - [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext) - Oceanic Next color theme, based on original [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme).
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
+- [Twoslash Query Comments](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries)
 - [VS Code Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data inside Visual Studio Code. Fake data is based on Faker.
 - [VS Code Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - A big pack of icons (200+) for your files.
 
