@@ -114,6 +114,12 @@ git push origin [branch]
 git config core.ignorecase false
 ```
 
+Отменить последний коммит (изменения вернуться в stage)
+
+```
+git reset --soft HEAD~1
+```
+
 ---
 
 Error
