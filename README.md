@@ -17,6 +17,7 @@
   - [Node.js](https://github.com/maxim-berdnikov/dev-tools#nodejs)
     - [Enviroment](https://github.com/maxim-berdnikov/dev-tools#enviroment)
   - [Others](https://github.com/maxim-berdnikov/dev-tools#others)
+- [Utils](https://github.com/maxim-berdnikov/dev-tools#utils)
 - [JSON](https://github.com/maxim-berdnikov/dev-tools#json)
 - [Terminal Commands (Unix)](terminal.md)
 - [Git Commands](git.md)
@@ -110,6 +111,12 @@
 
 - [Gulp Include](https://www.npmjs.com/package/gulp-include) - Makes inclusion of files a breeze. Enables functionality similar to that of snockets / sprockets or other file insertion compilation tools.
 
+### Canvas
+
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard.
+  Collaborative and end-to-end encrypted.
+- [Konva.js](https://konvajs.org/index.html) - HTML5 2d canvas js library for desktop and mobile applications
+
 ## Backend
 
 ### Node.js
@@ -127,6 +134,10 @@
 ### Others
 
 - [Socket.io](https://socket.io/)
+
+## Utils
+
+- [Auto-Changelog](https://www.npmjs.com/package/auto-changelog/v/1.4.4) - Command line tool for generating a changelog from git tags and commit history.
 
 ## JSON
 
@@ -146,6 +157,7 @@
 - [Blockman - Highlight Nested Code Blocks](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman) - Mark/Highlight code blocks.
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
+- [Code Spell Checker - Russian](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-russian) - Russian dictionary extension for VS Code.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 - [CSS Navigation](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation) - Allows Go to Definition from HTML to CSS / Sass / Less; provides Completion and Workspace Symbols for class & id name.
 - [env-cmd-file-syntax](https://marketplace.visualstudio.com/items?itemName=Nixon.env-cmd-file-syntax) - This plugin works with vscode. It helps us to highlight the key-value string in .env files (e.g. .env, .env.development and so on).
@@ -161,6 +173,7 @@
 - [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
 - [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- [React CSS modules](https://marketplace.visualstudio.com/items?itemName=viijay-kr.react-ts-css) - React CSS modules - VS code extension for CSS modules support in React projects written in typescript.Supports Definitions, Hover , Completion Providers and Diagnostics
 - [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG Coding, Minify, Pretty, Preview All-In-One
 - [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext) - Oceanic Next color theme, based on original [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme).
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
