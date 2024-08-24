@@ -1,0 +1,48 @@
+{
+	"code-runner.runInTerminal": true,
+	"terminal.integrated.defaultProfile.osx": "zsh",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": "active",
+	"workbench.colorTheme": "Oceanic Next",
+	"typescript.suggest.paths": false,
+	"javascript.suggest.paths": false,
+	"path-intellisense.absolutePathToWorkspace": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.insertSpaces": true,
+	"editor.tabSize": 2,
+	"workbench.editorAssociations": {
+		"git-rebase-todo": "gitlens.rebase"
+	},
+	"workbench.activityBar.visible": false,
+	"workbench.iconTheme": "vscode-great-icons",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"eslint.validate": ["javascript", "typescript"],
+	"files.autoSave": "afterDelay",
+	"typescript.preferences.importModuleSpecifier": "non-relative",
+	"files.associations": {
+		"*.svg": "html"
+	},
+	"editor.renderWhitespace": "all",
+	"editor.minimap.enabled": false,
+	"editor.suggestSelection": "first",
+	"editor.cursorBlinking": "expand",
+	"editor.glyphMargin": false,
+	"editor.fontLigatures": true,
+	"editor.scrollBeyondLastLine": false,
+	"editor.wordWrap": "bounded",
+	"editor.wordWrapColumn": 60,
+	"editor.smoothScrolling": true,
+	"workbench.productIconTheme": "fluent-icons",
+	"explorer.compactFolders": false,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.editor.tabSizing": "shrink"
+}

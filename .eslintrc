@@ -1,0 +1,180 @@
+{
+	"root": true,
+	"parser": "@typescript-eslint/parser",
+	"env": {
+		"browser": true,
+		"es2021": true
+	},
+	"plugins": [
+		"simple-import-sort",
+		"jest",
+		"prettier",
+		"sort-keys-fix",
+		"sort-destructure-keys"
+	],
+	"parserOptions": {
+		"project": ["./tsconfig.json"]
+	},
+	"extends": [
+		"airbnb",
+		"airbnb/hooks",
+		"plugin:@typescript-eslint/recommended",
+		"plugin:@typescript-eslint/recommended-requiring-type-checking",
+		"plugin:eslint-comments/recommended",
+		"plugin:json/recommended",
+		"plugin:prettier/recommended"
+	],
+	"rules": {
+		"no-nested-ternary": "off",
+		"eslint-comments/no-unlimited-disable": "off",
+		"eslint-comments/disable-enable-pair": "off",
+		// https://github.com/typescript-eslint/typescript-eslint/issues/2483
+		"no-shadow": "off",
+		"@typescript-eslint/no-shadow": "error",
+		"react/button-has-type": "off",
+		"import/prefer-default-export": "off",
+		"import/no-default-export": "error",
+		"import/no-import-module-exports": [
+			"error",
+			{
+				"exceptions": ["**/*/src/index.tsx"]
+			}
+		],
+		"no-param-reassign": [
+			"error",
+			{
+				"props": true,
+				"ignorePropertyModificationsFor": ["state"]
+			}
+		],
+		"no-use-before-define": [
+			"error",
+			{
+				"functions": false,
+				"classes": true,
+				"variables": true
+			}
+		],
+		"quotes": [
+			"warn",
+			"single",
+			{
+				"avoidEscape": true
+			}
+		],
+		"padding-line-between-statements": [
+			"warn",
+			{
+				"blankLine": "always",
+				"prev": ["const", "let", "var"],
+				"next": "*"
+			},
+			{
+				"blankLine": "always",
+				"prev": "*",
+				"next": "return"
+			},
+			{
+				"blankLine": "any",
+				"prev": ["const", "let", "var"],
+				"next": ["const", "let", "var"]
+			}
+		],
+		// дефолтное значение 20
+		"complexity": ["warn", 50],
+		"max-nested-callbacks": "warn",
+		"jest/no-disabled-tests": "warn",
+		"jest/no-focused-tests": "error",
+		"jest/no-identical-title": "error",
+		"jest/valid-expect": "error",
+		"react/function-component-definition": [
+			2,
+			{
+				"namedComponents": "arrow-function"
+			}
+		],
+		"jsx-a11y/interactive-supports-focus": "off",
+		"jsx-a11y/no-noninteractive-element-interactions": "off",
+		"jsx-a11y/click-events-have-key-events": "off",
+		"react/jsx-fragments": ["error", "element"],
+		"react/static-property-placement": ["error", "static public field"],
+		"react/state-in-constructor": ["error", "never"],
+		// 26 errors
+		"react/require-default-props": "off",
+		"react/jsx-boolean-value": ["error", "always"],
+		// 1 error
+		"react/jsx-props-no-spreading": "off",
+		"react/jsx-filename-extension": [
+			1,
+			{
+				"extensions": [".jsx", ".tsx"]
+			}
+		],
+		// js-only errors
+		"@typescript-eslint/no-var-requires": "off",
+		"@typescript-eslint/no-use-before-define": [
+			"error",
+			{
+				"functions": false,
+				"classes": true,
+				"variables": true
+			}
+		],
+		"@typescript-eslint/array-type": [
+			"error",
+			{
+				"default": "array-simple",
+				"readonly": "array-simple"
+			}
+		],
+		"@typescript-eslint/no-floating-promises": "off",
+		"no-void": [
+			"error",
+			{
+				"allowAsStatement": true
+			}
+		],
+		// включенное правило криво работает
+		"import/no-unresolved": "off",
+		"import/no-commonjs": "off",
+		// 5 errors
+		"react/no-array-index-key": "off",
+		// 7 errors: 4 "undefined", 3 "any"
+		"@typescript-eslint/restrict-template-expressions": "off",
+		// если не отключить целиком, то работает криво
+		"import/extensions": "off",
+		"import/no-useless-path-segments": [
+			"error",
+			{
+				"noUselessIndex": true
+			}
+		],
+		"simple-import-sort/imports": "error",
+		"simple-import-sort/exports": "error",
+		"jsx-a11y/no-static-element-interactions": "off",
+		"jsx-a11y/label-has-associated-control": [
+			2,
+			{
+				"required": {
+					"some": ["nesting", "id"]
+				}
+			}
+		],
+		"react/jsx-sort-props": [
+			"warn",
+			{
+				"noSortAlphabetically": false
+			}
+		],
+		"sort-keys-fix/sort-keys-fix": "warn",
+		"sort-destructure-keys/sort-destructure-keys": "warn"
+	},
+	"overrides": [
+		{
+			"files": ["*.stories.ts", "*.stories.tsx"],
+			"rules": {
+				"import/no-default-export": ["off"]
+			}
+		}
+	]
+}

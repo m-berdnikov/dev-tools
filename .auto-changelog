@@ -1,0 +1,13 @@
+{
+	"output": "CHANGELOG.md",
+	"template": "keepachangelog",
+	"unreleased": true,
+	"commitLimit": false,
+	"hideCredit": true,
+	"package": true,
+	"commitUrl": "",
+	"tagPattern": "D-.+",
+	"ignoreCommitPattern": "Pull request.+",
+	"sortCommits": "date-desc",
+	"compareUrl": ""
+}
