@@ -9,9 +9,11 @@
 - [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
 - [Code Spell Checker - Russian](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-russian) - Russian dictionary extension for VS Code.
+- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information about css colors
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 - [CSS Navigation](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation) - Allows Go to Definition from HTML to CSS / Sass / Less; provides Completion and Workspace Symbols for class & id name.
 - [env-cmd-file-syntax](https://marketplace.visualstudio.com/items?itemName=Nixon.env-cmd-file-syntax) - This plugin works with vscode. It helps us to highlight the key-value string in .env files (e.g. .env, .env.development and so on).
+- [eCSStractor for VSCode](https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port) - VSCode plugin for extracting class names from HTML and generate CSS stylesheet for following work.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) - Fluent product icons for Visual Studio Code
 - [GIT History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
@@ -19,11 +21,14 @@
 - [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) - GitHub theme for VS Code.
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets.
+- [HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion) - Provides completion suggestions for classes and ids from markup documents to stylesheets. 
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - A simple extension to make indentation more readable.
 - [Inline Parameters for VSCode](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters) - An extension for Visual Studio Code that adds inline parameter annotations when calling a function.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a local development server with live reload feature for static & dynamic pages.
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 - [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Open files in a browser.
 - [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 - [React CSS modules](https://marketplace.visualstudio.com/items?itemName=viijay-kr.react-ts-css) - React CSS modules - VS code extension for CSS modules support in React projects written in typescript.Supports Definitions, Hover , Completion Providers and Diagnostics
 - [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG Coding, Minify, Pretty, Preview All-In-One
